@@ -1,0 +1,17 @@
+Tapatalk API for MyBB 1.6.* is free and open source software released under the
+GNU General Public License v3. (http://www.gnu.org/licenses/gpl-3.0.html)
+
+Installation Instruction:
+http://tapatalk.com/activate_tapatalk.php?plugin=mybb
+
+Change Log:
+http://support.tapatalk.com/threads/tapatalk-for-mybb-plugin-release-announcement-and-changelog.5877
+
+Lookup Tags for stable versions:
+https://github.com/tapatalk/tapatalk-mybb/tags
+
+Developer API:
+http://tapatalk.com/api/api.php (Requires Login)
+
+Contribution:
+Feel free to fork your own fix and request to merge to master.
